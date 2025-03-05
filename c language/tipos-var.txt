@@ -1,0 +1,23 @@
+#Tipos de Variáveis na Linguagem C:
+
+##Inteiros:
+Os inteiros são utilizados para guardar conjuntos dos números inteiro, há 3 tipos que se utilizam desse conceito.
+
+###Short:
+Ocupa 2bytes = 16 bits que é igual a 2^16 números. é comum utilizar esse tipo apenas para máquinas que precisam economizar na memória e processamento.
+
+###Int:
+Ocupa 4bytes = 32 bits que é igual a 2^32 números. é utilizado frequentemente, mas em alguns casos como número de visualizações de um determinado vídeo, se tornou incapaz de suportar.
+
+###Long:
+Ocupa 8bytes = 64 bits que é igual a 2^64 números. Está começando a se tornar necessário devido ao crescente número de dados que estamos tendo.
+
+
+##Racionais:
+Os Racionais são utilizados para guardar conjunto dos números racionais,  há 2 tipos que se utilizam desse conceito.
+
+###float:
+Ocupa 4bytes = 32 bits que é igual a 2^32 números.
+
+###double:
+Ocupa 8bytes = 64 bits que é igual a 2^64 números.
