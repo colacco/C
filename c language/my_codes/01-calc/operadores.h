@@ -1,0 +1,1 @@
+int calculadora(float valor1, float valor2, int opcao);

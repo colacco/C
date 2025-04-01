@@ -1,0 +1,19 @@
+O que é um logaritmo?
+Usado para descobrir o valor da variável presente no expoente de um número.
+
+2 + 2 + 2 + 2 + 2 + 2 + 2 +2
+2 * 8
+2⁴
+
+log(2)16 = x
+
+
+Raiz:
+5 * 5 * 2 * 2 * 3 = 300
+valor1 = 300
+valor2 = 2
+    300 | 2 -> dividiu pelo valor2 e gerou o resultado
+    150 | 2
+
+
+%lf -> long float, double
